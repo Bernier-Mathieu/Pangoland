@@ -1,0 +1,23 @@
+#entete, #menu, #contenu, #footer {
+  padding:1px 0;
+  }
+  #entete {
+  text-align:center;
+  background-color:burlywood ;
+  }
+  #main {
+  max-width:960px;
+  }
+  #menu  {
+  float:left;
+  width:240px;
+  background-color: aqua;
+  }
+  #contenu {
+  margin-left:245px;
+
+  }
+  #footer {
+  text-align:center;
+  clear:both;
+  }
